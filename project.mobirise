@@ -226,7 +226,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "document",
+              "name": "global",
               "family": "et-line",
               "active": true,
               "link": "",
@@ -243,7 +243,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "map-pin",
+              "name": "wallet",
               "family": "et-line",
               "active": true,
               "link": "",
@@ -260,7 +260,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "newspaper",
+              "name": "bargraph",
               "family": "et-line",
               "active": true,
               "link": "",
