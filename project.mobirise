@@ -180,7 +180,8 @@
             "H3": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -346,6 +347,12 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
           "_anchor": "contacts1-17",
           "_params": {
             "paddingTop": 3,
@@ -377,13 +384,7 @@
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street<br><b>------------------------</b><br>Miami, FL 33185<br><b>------------------------</b>",
           "text2": "<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio,com<br>\nPhone: (305)-485-2323<br><br>",
-          "text3": "",
-          "_styles": {
-            "P": {
-              "font-size": "14px",
-              "text-align": "left"
-            }
-          }
+          "text3": ""
         },
         {
           "_tags": [
