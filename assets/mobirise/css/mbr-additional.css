@@ -1,8 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -448,19 +448,19 @@ h6,
 }
 #ext_menu-1 .link[aria-expanded="true"],
 #ext_menu-1 .dropdown-menu {
-  background: #0e0e0e;
+  background: #000000;
 }
 #ext_menu-1 .nav-dropdown-sm .link:focus,
 #ext_menu-1 .nav-dropdown-sm .link:hover,
 #ext_menu-1 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-1 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #000000!important;
 }
 #ext_menu-1 .navbar,
 #ext_menu-1 .nav-dropdown-sm,
 #ext_menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-1 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #000000;
 }
 #ext_menu-1 .bg-color.transparent .link {
   color: #ffffff;
@@ -478,20 +478,38 @@ h6,
   color: #949494!important;
 }
 #header1-e .mbr-section-lead {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 21px;
   text-align: center;
 }
 #header1-e .mbr-section-title {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 84px;
+}
+#header3-1g .mbr-section-title,
+#header3-1g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1g H3 {
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
 }
 #features7-c .card-subtitle {
   color: #bcbcbc;
 }
 #features7-c .iconbox {
-  background-color: #949494;
-  border-color: #949494;
+  background-color: #0b0b0b;
+  border-color: #0b0b0b;
+}
+#features7-c P {
+  color: #ffffff;
+}
+#features7-c H4 {
+  color: #ffffff;
+}
+#contacts1-17 P {
+  font-size: 14px;
+  text-align: left;
 }
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
