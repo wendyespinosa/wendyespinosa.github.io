@@ -382,8 +382,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>15015 SW 24th Street<br><b>------------------------</b><br>Miami, FL 33185<br><b>------------------------</b>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio,com<br>\nPhone: (305)-485-2323<br><br>",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br>",
+          "text2": "<strong>Contacts</strong><br><span style=\"line-height: 1.5;\">Email: wespinosa@miamiartsstudio,com</span><br><b><br></b>\nPhone: (305)-485-2323<br><br>",
           "text3": ""
         },
         {
