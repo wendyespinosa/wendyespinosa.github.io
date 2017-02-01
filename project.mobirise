@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "applications.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 53,
+    "uniqCompNum": 54,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x128-1.png",
     "noImageResize": "",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationil.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications2.html\">Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications3.html\">Others<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationil.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications2.html\">Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications3.html\">Others<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
         },
         {
           "_tags": [
@@ -212,7 +212,8 @@
               "border-color": "#0b0b0b"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             "H4": {
               "color": "#ffffff"
@@ -523,71 +524,41 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery4",
+          "_name": "gallery3",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": 1,
             "images": [
               {
-                "tags": "8th Grade, 7th Grade, 6th Grade",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wendy-espinosa-2000x2979-800x1191.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wendy-espinosa-2000x2979.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bab-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/bab-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "8th Grade, 7th Grade, 6th Grade",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/poster2-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/poster2-2000x2962.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "8th Grade, 7th Grade, 6th Grade",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/perspective3-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/perspective3-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "8th Grade, 7th Grade, 6th Grade",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wendy-espinosa-1-2000x1708-800x683.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wendy-espinosa-1-2000x1708.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "8th Grade, 7th Grade, 6th Grade",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wendy-espinosa-1-2000x1708-800x683.jpg",
-                "image": "@PROJECT_PATH@/assets/images/wendy-espinosa-1-2000x1708.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coo-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/coo-2000x2000.png",
                 "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": "1",
+            "spacing": "0",
             "showText": false,
-            "filter": true,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery4-8",
+          "_anchor": "gallery3-1h",
           "articleLayout": false,
           "allItem": "All"
         }
@@ -892,7 +863,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationil.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications2.html\">Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications3.html\">Others<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationil.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications2.html\">Word</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications3.html\">Others<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
         },
         {
           "_tags": [
@@ -1133,7 +1104,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.9",
             "overlayColor": "#000000",
             "inverse": true,
             "showTitle": true,
