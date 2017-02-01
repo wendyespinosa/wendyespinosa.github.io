@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "biography.html",
+    "currentPage": "contact.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -941,11 +941,11 @@
             "showSubTitle": true
           },
           "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "Leave me a message to keep in touch!",
           "form": {
             "action": "wespinosa@miamiartsstudio.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out the form!"
             },
             "fields": {
               "name": {
