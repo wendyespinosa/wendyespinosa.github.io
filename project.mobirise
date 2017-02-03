@@ -2806,7 +2806,7 @@
                 "active": true
               }
             ],
-            "spacing": 1,
+            "spacing": "2",
             "showText": false,
             "filter": true,
             "bgColor": "#000000",
