@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 71,
+    "uniqCompNum": 72,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x128-1.png",
     "noImageResize": "",
@@ -2424,7 +2424,7 @@
           "_anchor": "header3-1w",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#000000",
             "showMeta": true
           },
@@ -2447,7 +2447,7 @@
           "_name": "header6",
           "_anchor": "header6-1y",
           "_params": {
-            "imageSize": "64",
+            "imageSize": "60",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1609.jpg",
