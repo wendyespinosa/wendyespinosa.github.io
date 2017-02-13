@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "biography.html",
+    "currentPage": "applicationill.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2835,8 +2835,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bab-1-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/bab-1-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/tv-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/tv-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2845,8 +2845,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coo-1-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/coo-1-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/pl-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/pl-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2855,8 +2855,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tih-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/tih-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ho-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/ho-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2865,8 +2865,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dre-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/dre-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/boo-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/boo-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2875,8 +2875,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/an-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/an-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/she-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/she-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2885,8 +2885,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rara-1-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/rara-1-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/deer-1-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/deer-1-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2895,8 +2895,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/snip-1-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/snip-1-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/we-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/we-2000x2000.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2905,48 +2905,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cdddd-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/cdddd-2000x2000.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cal-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/cal-2000x2000.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/he-1-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/he-1-2000x2000.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ba-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/ba-2000x2000.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/red-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/red-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/vw-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/vw-2000x2000.png",
                 "caption": "Type caption here",
                 "active": true
               }
