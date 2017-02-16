@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 72,
+    "uniqCompNum": 78,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x128-1.png",
     "noImageResize": "",
@@ -173,191 +173,54 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         },
         {
+          "_inherit": "content5",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
             },
-            "H3": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff",
-              "text-align": "right"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1g",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#101010",
-            "showMeta": true
-          },
-          "title": "My Goals.",
-          "meta": ""
-        },
-        {
-          "_inherit": "features4",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "#0b0b0b",
-              "border-color": "#0b0b0b"
-            },
-            "P": {
-              "color": "#ffffff",
-              "text-align": "left"
-            },
-            "H4": {
+            "DIV": {
+              "text-align": "right",
               "color": "#ffffff"
             }
           },
-          "_name": "features7",
-          "_anchor": "features7-c",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-23",
           "_params": {
-            "iconsBgColor": "#0b0b0b",
-            "paddingTop": "2",
-            "paddingBottom": 2,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#181818",
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/iusRYa1E-VI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
           },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "laptop",
-              "family": "et-line",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#ffffff",
-              "newWindow": false
-            }
-          },
-          "title1": "IT Manager",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "IT Manager is a very prestigious job that&nbsp;requires a lot of skill and patience to&nbsp;perform, As a person, I have all the necessary&nbsp;traits to perform outstandingly as an IT Manager.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "global",
-              "family": "et-line",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#fff",
-              "newWindow": false
-            }
-          },
-          "title2": "Archaeologist",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Archaeologists conduct research to reconstruct record of past human life and culture. With a huge interest in history, I'd be able to commit fully and love my job.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "wallet",
-              "family": "et-line",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#fff",
-              "newWindow": false
-            }
-          },
-          "title3": "Forensic Scientist",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Forensic science technicians aid criminal investigations by collecting and analyzing evidence. As a child, I've always been drawn to science, so this would be another good choice.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "linkInNewWindow": false,
-              "name": "bargraph",
-              "family": "et-line",
-              "active": true,
-              "link": "",
-              "size": 0,
-              "color": "#fff",
-              "newWindow": false
-            }
-          },
-          "title4": "Computer Systems Analyst",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Computer systems analysts must have a diverse skill set. I'm extremely capable of multitasking and since the job involves working with other people, it'd be a piece of cake.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "title": ":D",
+          "caption": "Soon."
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "font-size": "14px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts1-17",
+          "_name": "contacts4",
+          "_anchor": "contacts4-25",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -367,25 +230,37 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-128x128.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "wespinosa@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br>",
-          "text2": "<strong>Contacts</strong><br><span style=\"line-height: 1.5;\">Email: wespinosa@miamiartsstudio,com</span><br><b><br></b>\nPhone: (305)-485-2323<br><br>",
-          "text3": ""
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         },
         {
           "_tags": [
@@ -679,6 +554,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-pearl-earring-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-pearl-earring-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-pearl-earring-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-pearl-earring-2-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1062,6 +947,177 @@
           "title": "WENDY ESPINOSA&nbsp;",
           "text": "Wendy Espinosa is an eigth grade student currently attending Miami Arts Studio in Miami, Florida. She's 14 years old and pursues a career in IT Management. In her free time, she often creates art or disassembles computers for the enjoyment of putting them back together. She was first introduced to computers when she was four years old thanks to her father's influence. Since then, she's worked on her computer skills immensely and often creates or fixes pieces for family members and joins competitions. You can often find her helping out at school during theatre performances as light or projection manager. Furthermore, she joins many clubs such as the National Junior Honor Society, SECME, and Student Council. She also holds traits like responsibility, independence, and diligence, Wendy works to help change the way people perceive technology so that everyone can very easily use it to their advantages in the future. She hopes to make a name for herself so that people can finally recognize her skills.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-21",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#101010",
+            "showMeta": true
+          },
+          "title": "My Goals.",
+          "meta": ""
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#0b0b0b",
+              "border-color": "#0b0b0b"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-20",
+          "_params": {
+            "iconsBgColor": "#0b0b0b",
+            "paddingTop": "2",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#181818",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "laptop",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title1": "IT Manager",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "IT Manager is a very prestigious job that&nbsp;requires a lot of skill and patience to&nbsp;perform, As a person, I have all the necessary&nbsp;traits to perform outstandingly as an IT Manager.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title2": "Archaeologist",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Archaeologists conduct research to reconstruct record of past human life and culture. With a huge interest in history, I'd be able to commit fully and love my job.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "wallet",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title3": "Forensic Scientist",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Forensic science technicians aid criminal investigations by collecting and analyzing evidence. As a child, I've always been drawn to science, so this would be another good choice.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "bargraph",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title4": "Computer Systems Analyst",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Computer systems analysts must have a diverse skill set. I'm extremely capable of multitasking and since the job involves working with other people, it'd be a piece of cake.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     },
