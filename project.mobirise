@@ -200,7 +200,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/iusRYa1E-VI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/wq3yPzzUfSQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -410,13 +410,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -435,7 +435,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -733,7 +733,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-f",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1272,7 +1272,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-m",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1420,7 +1420,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-u",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1648,7 +1648,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-w",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1876,7 +1876,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-y",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2079,13 +2079,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2104,7 +2104,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1l",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2252,13 +2252,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2277,7 +2277,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1q",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2490,13 +2490,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2515,7 +2515,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1u",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
