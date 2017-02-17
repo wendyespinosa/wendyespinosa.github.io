@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -493,6 +494,15 @@ h6,
 #content8-23 DIV {
   text-align: right;
   color: #ffffff;
+}
+#header3-27 .mbr-section-title,
+#header3-27 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-27 H3 {
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+  text-align: right;
 }
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
