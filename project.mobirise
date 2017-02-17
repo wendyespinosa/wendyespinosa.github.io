@@ -93,7 +93,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#949494!important"
             }
           },
           "_name": "ext.menu",
@@ -450,7 +450,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -748,7 +748,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -947,7 +947,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1287,7 +1287,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1435,7 +1435,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1663,7 +1663,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1891,7 +1891,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2119,7 +2119,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2292,7 +2292,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2530,7 +2530,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
