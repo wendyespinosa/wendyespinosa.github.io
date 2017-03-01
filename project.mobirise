@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "resume.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 81,
+    "uniqCompNum": 82,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x128-1.png",
     "noImageResize": "",
@@ -34,7 +34,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Wendy Espinosa",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -289,7 +289,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/qXI1zKshPkY?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/dIq-fzAFt9U?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -320,7 +320,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\">YouTube</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "wespinosa@miamiartsstudio.com",
@@ -375,7 +375,8 @@
     },
     "applications.html": {
       "settings": {
-        "order": 2
+        "order": 2,
+        "title": "Photoshop"
       },
       "components": [
         {
@@ -450,7 +451,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -641,6 +642,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-wendy-espinosa-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-wendy-espinosa-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-pearl-earring-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-pearl-earring-2000x2000.jpg",
                 "caption": "Type caption here",
@@ -653,6 +664,26 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-pearl-earring-2-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jan-vermeer-girl-with-a-pearl-earring-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-wendy-espinosa-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-wendy-espinosa-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-wendy-espinosa-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-wendy-espinosa-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -673,7 +704,8 @@
     },
     "biography.html": {
       "settings": {
-        "order": 7
+        "order": 7,
+        "title": "Biography"
       },
       "components": [
         {
@@ -748,7 +780,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1013,7 +1045,8 @@
     },
     "resume.html": {
       "settings": {
-        "order": 8
+        "order": 8,
+        "title": "Resume"
       },
       "components": [
         {
@@ -1088,7 +1121,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1155,24 +1188,25 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content1-q",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "2",
             "bgColor": "#000000"
           },
-          "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget vehicula elit. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec convallis augue ac tempus dictum. Fusce lobortis ex id est imperdiet, eu bibendum enim pharetra. Nulla facilisi. Ut at massa nec mi pretium scelerisque vitae ut diam. In purus turpis, rutrum vitae vestibulum nec, dictum quis orci. Nam volutpat risus at sem laoreet, non ullamcorper ex iaculis. Etiam malesuada, est eget pretium porta, orci lectus vulputate purus, sit amet dictum lectus lacus sit amet odio. Vestibulum finibus posuere quam vel ullamcorper.</p><p><br></p><p>Phasellus euismod auctor diam, quis venenatis dui molestie at. Donec et tellus a quam tincidunt dignissim. Donec rutrum, dolor eu placerat tempus, dolor mi luctus dolor, sed laoreet lectus enim sit amet ipsum. Phasellus vitae pulvinar elit, vel tincidunt erat. Sed eu sem nec lectus lobortis egestas eu eu enim. Vivamus mi est, ultricies nec interdum aliquam, efficitur in eros. Vivamus vulputate lectus odio, eu mattis dolor fermentum in. Phasellus vel dui et tortor feugiat mollis eget sed tortor. Sed feugiat neque in augue dapibus sagittis. Praesent et laoreet magna. Nulla ac vulputate quam. Aenean suscipit elementum auctor. Etiam sem augue, viverra nec sem at, scelerisque volutpat ligula. Etiam malesuada diam nec eleifend aliquam. In hac habitasse platea dictumst.</p><p><br></p><p>Aenean eget purus et ante malesuada lobortis. Donec bibendum suscipit nibh, et pharetra purus consequat et. Mauris volutpat, ligula placerat fermentum auctor, leo magna interdum neque, non varius felis quam tincidunt lorem. Proin sagittis erat neque, vitae mattis lorem ullamcorper non. Suspendisse tristique commodo mauris et porta. Donec mollis semper odio, vel dignissim metus consequat iaculis. Aenean suscipit et lectus quis tristique. Nulla ligula nunc, scelerisque ut purus sed, ultricies interdum eros. Duis hendrerit scelerisque orci, eget efficitur velit ultricies quis. Integer nec dictum arcu. Vestibulum sagittis rutrum felis sit amet sodales. Nullam pretium arcu vitae placerat eleifend. Nullam erat sem, faucibus vestibulum sapien ac, luctus iaculis mauris. Fusce placerat dolor sit amet tortor mollis venenatis. Pellentesque sed condimentum purus, sit amet pretium lorem.</p><p><br></p><p>Sed eu euismod mauris. Quisque ullamcorper lacus urna, non hendrerit nulla lobortis dapibus. Integer sit amet metus vitae dolor lacinia sollicitudin non eu ante. Donec ut urna a tellus tempor lacinia at vitae mauris. Sed eleifend egestas purus, at euismod purus sagittis a. Vestibulum bibendum tempor dui non interdum. Nullam molestie, ex sed vulputate viverra, justo ligula scelerisque metus, a posuere ante turpis vel est.</p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget vehicula elit. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec convallis augue ac tempus dictum. Fusce lobortis ex id est imperdiet, eu bibendum enim pharetra. Nulla facilisi. Ut at massa nec mi pretium scelerisque vitae ut diam. In purus turpis, rutrum vitae vestibulum nec, dictum quis orci. Nam volutpat risus at sem laoreet, non ullamcorper ex iaculis. Etiam malesuada, est eget pretium porta, orci lectus vulputate purus, sit amet dictum lectus lacus sit amet odio. Vestibulum finibus posuere quam vel ullamcorper.</p><p><br></p><p>Phasellus euismod auctor diam, quis venenatis dui molestie at. Donec et tellus a quam tincidunt dignissim. Donec rutrum, dolor eu placerat tempus, dolor mi luctus dolor, sed laoreet lectus enim sit amet ipsum. Phasellus vitae pulvinar elit, vel tincidunt erat. Sed eu sem nec lectus lobortis egestas eu eu enim. Vivamus mi est, ultricies nec interdum aliquam, efficitur in eros. Vivamus vulputate lectus odio, eu mattis dolor fermentum in. Phasellus vel dui et tortor feugiat mollis eget sed tortor. Sed feugiat neque in augue dapibus sagittis. Praesent et laoreet magna. Nulla ac vulputate quam. Aenean suscipit elementum auctor. Etiam sem augue, viverra nec sem at, scelerisque volutpat ligula. Etiam malesuada diam nec eleifend aliquam. In hac habitasse platea dictumst.</p><p><br></p><p>Aenean eget purus et ante malesuada lobortis. Donec bibendum suscipit nibh, et pharetra purus consequat et. Mauris volutpat, ligula placerat fermentum auctor, leo magna interdum neque, non varius felis quam tincidunt lorem. Proin sagittis erat neque, vitae mattis lorem ullamcorper non. Suspendisse tristique commodo mauris et porta. Donec mollis semper odio, vel dignissim metus consequat iaculis. Aenean suscipit et lectus quis tristique. Nulla ligula nunc, scelerisque ut purus sed, ultricies interdum eros. Duis hendrerit scelerisque orci, eget efficitur velit ultricies quis. Integer nec dictum arcu. Vestibulum sagittis rutrum felis sit amet sodales. Nullam pretium arcu vitae placerat eleifend. Nullam erat sem, faucibus vestibulum sapien ac, luctus iaculis mauris. Fusce placerat dolor sit amet tortor mollis venenatis. Pellentesque sed condimentum purus, sit amet pretium lorem.</p><p><br></p><p>Sed eu euismod mauris. Quisque ullamcorper lacus urna, non hendrerit nulla lobortis dapibus. Integer sit amet metus vitae dolor lacinia sollicitudin non eu ante. Donec ut urna a tellus tempor lacinia at vitae mauris. Sed eleifend egestas purus, at euismod purus sagittis a. Vestibulum bibendum tempor dui non interdum. Nullam molestie, ex sed vulputate viverra, justo ligula scelerisque metus, a posuere ante turpis vel est.</p>"
         }
       ]
     },
     "certphoto.html": {
       "settings": {
-        "order": 9
+        "order": 9,
+        "title": "Photoshop Certifications"
       },
       "components": [
         {
@@ -1247,7 +1281,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1400,7 +1434,8 @@
     },
     "certillu.html": {
       "settings": {
-        "order": 10
+        "order": 10,
+        "title": "Illustrator Certifications"
       },
       "components": [
         {
@@ -1475,7 +1510,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1628,7 +1663,8 @@
     },
     "certoth.html": {
       "settings": {
-        "order": 11
+        "order": 11,
+        "title": "Other Certifications"
       },
       "components": [
         {
@@ -1663,13 +1699,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1703,7 +1739,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1856,7 +1892,8 @@
     },
     "applicationword.html": {
       "settings": {
-        "order": 3
+        "order": 3,
+        "title": "Word"
       },
       "components": [
         {
@@ -1931,7 +1968,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2029,7 +2066,8 @@
     },
     "applicationill.html": {
       "settings": {
-        "order": 5
+        "order": 5,
+        "title": "Illustrator"
       },
       "components": [
         {
@@ -2104,7 +2142,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2267,7 +2305,8 @@
     },
     "applicationani.html": {
       "settings": {
-        "order": 4
+        "order": 4,
+        "title": "Animate"
       },
       "components": [
         {
@@ -2342,7 +2381,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
