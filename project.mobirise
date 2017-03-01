@@ -349,7 +349,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
         },
         {
           "_tags": [
@@ -466,6 +466,56 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-25",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#161616",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\">YouTube</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "wespinosa@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
         },
         {
           "_name": "footer1",
@@ -926,7 +976,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#181818",
+            "bgColor": "#1e1e1e",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1040,6 +1090,56 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-25",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#161616",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\">YouTube</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "wespinosa@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
         }
       ]
     },
@@ -1175,7 +1275,7 @@
           "_name": "header3",
           "_anchor": "header3-p",
           "_params": {
-            "paddingTop": "6",
+            "paddingTop": "5",
             "paddingBottom": "1",
             "bgColor": "#000000",
             "showMeta": true
@@ -1200,6 +1300,56 @@
             "bgColor": "#000000"
           },
           "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget vehicula elit. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec convallis augue ac tempus dictum. Fusce lobortis ex id est imperdiet, eu bibendum enim pharetra. Nulla facilisi. Ut at massa nec mi pretium scelerisque vitae ut diam. In purus turpis, rutrum vitae vestibulum nec, dictum quis orci. Nam volutpat risus at sem laoreet, non ullamcorper ex iaculis. Etiam malesuada, est eget pretium porta, orci lectus vulputate purus, sit amet dictum lectus lacus sit amet odio. Vestibulum finibus posuere quam vel ullamcorper.</p><p><br></p><p>Phasellus euismod auctor diam, quis venenatis dui molestie at. Donec et tellus a quam tincidunt dignissim. Donec rutrum, dolor eu placerat tempus, dolor mi luctus dolor, sed laoreet lectus enim sit amet ipsum. Phasellus vitae pulvinar elit, vel tincidunt erat. Sed eu sem nec lectus lobortis egestas eu eu enim. Vivamus mi est, ultricies nec interdum aliquam, efficitur in eros. Vivamus vulputate lectus odio, eu mattis dolor fermentum in. Phasellus vel dui et tortor feugiat mollis eget sed tortor. Sed feugiat neque in augue dapibus sagittis. Praesent et laoreet magna. Nulla ac vulputate quam. Aenean suscipit elementum auctor. Etiam sem augue, viverra nec sem at, scelerisque volutpat ligula. Etiam malesuada diam nec eleifend aliquam. In hac habitasse platea dictumst.</p><p><br></p><p>Aenean eget purus et ante malesuada lobortis. Donec bibendum suscipit nibh, et pharetra purus consequat et. Mauris volutpat, ligula placerat fermentum auctor, leo magna interdum neque, non varius felis quam tincidunt lorem. Proin sagittis erat neque, vitae mattis lorem ullamcorper non. Suspendisse tristique commodo mauris et porta. Donec mollis semper odio, vel dignissim metus consequat iaculis. Aenean suscipit et lectus quis tristique. Nulla ligula nunc, scelerisque ut purus sed, ultricies interdum eros. Duis hendrerit scelerisque orci, eget efficitur velit ultricies quis. Integer nec dictum arcu. Vestibulum sagittis rutrum felis sit amet sodales. Nullam pretium arcu vitae placerat eleifend. Nullam erat sem, faucibus vestibulum sapien ac, luctus iaculis mauris. Fusce placerat dolor sit amet tortor mollis venenatis. Pellentesque sed condimentum purus, sit amet pretium lorem.</p><p><br></p><p>Sed eu euismod mauris. Quisque ullamcorper lacus urna, non hendrerit nulla lobortis dapibus. Integer sit amet metus vitae dolor lacinia sollicitudin non eu ante. Donec ut urna a tellus tempor lacinia at vitae mauris. Sed eleifend egestas purus, at euismod purus sagittis a. Vestibulum bibendum tempor dui non interdum. Nullam molestie, ex sed vulputate viverra, justo ligula scelerisque metus, a posuere ante turpis vel est.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-25",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#161616",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\">YouTube</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "wespinosa@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
         }
       ]
     },
@@ -2061,6 +2211,56 @@
           "_anchor": "gallery4-1p",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-25",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#161616",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\">YouTube</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "wespinosa@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
         }
       ]
     },
@@ -2300,6 +2500,56 @@
           "_anchor": "gallery3-1t",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-25",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#161616",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\">YouTube</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "wespinosa@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
         }
       ]
     },
@@ -2493,6 +2743,56 @@
           "title": "\"Family Matters\"&nbsp;",
           "text": "Short animation created by a team made of four people.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-25",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#161616",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\">YouTube</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "wespinosa@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
         }
       ]
     }
