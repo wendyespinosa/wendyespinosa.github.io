@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "personal.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 82,
+    "uniqCompNum": 93,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x128-1.png",
     "noImageResize": "",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resume.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"personal.html\">PERSONAL</a></li>"
         },
         {
           "_tags": [
@@ -169,7 +169,7 @@
             "showButtons": false
           },
           "title": "WELCOME.",
-          "text": "A website desplaying all my achievements and qualifications&nbsp;<br>for future plans.",
+          "text": "A website displaying all my achievements and qualifications&nbsp;<br>for future plans.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT ME</a> "
         },
         {
@@ -320,7 +320,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"https://www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\" target=\"_blank\">YouTube</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li>YouTube</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "wespinosa@miamiartsstudio.com",
@@ -451,7 +451,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -465,7 +465,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resume.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">PERSONAL</a></li>"
         },
         {
           "_name": "footer1",
@@ -719,7 +719,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"https://www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\" target=\"_blank\">YouTube</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li>YouTube</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "wespinosa@miamiartsstudio.com",
@@ -830,7 +830,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -844,7 +844,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resume.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">PERSONAL</a></li>"
         },
         {
           "_tags": [
@@ -1110,7 +1110,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"https://www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\" target=\"_blank\">YouTube</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li>YouTube</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "wespinosa@miamiartsstudio.com",
@@ -1221,7 +1221,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1235,7 +1235,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resume.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">PERSONAL</a></li>"
         },
         {
           "_tags": [
@@ -1320,7 +1320,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"https://www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\" target=\"_blank\">YouTube</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li>YouTube</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "wespinosa@miamiartsstudio.com",
@@ -1431,7 +1431,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1445,7 +1445,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resume.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">PERSONAL</a></li>"
         },
         {
           "_name": "footer1",
@@ -1660,7 +1660,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1674,7 +1674,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resume.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">PERSONAL</a></li>"
         },
         {
           "_name": "footer1",
@@ -1889,7 +1889,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1903,7 +1903,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resume.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"personal.html\">PERSONAL</a></li>"
         },
         {
           "_name": "footer1",
@@ -2118,7 +2118,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2132,7 +2132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resume.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">PERSONAL</a></li>"
         },
         {
           "_name": "footer1",
@@ -2231,7 +2231,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"https://www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\" target=\"_blank\">YouTube</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li>YouTube</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "wespinosa@miamiartsstudio.com",
@@ -2342,7 +2342,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2356,7 +2356,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resume.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">PERSONAL</a></li>"
         },
         {
           "_name": "footer1",
@@ -2520,7 +2520,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"https://www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\" target=\"_blank\">YouTube</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li>YouTube</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "wespinosa@miamiartsstudio.com",
@@ -2631,7 +2631,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2645,7 +2645,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resume.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"resume.html\">PERSONAL</a></li>"
         },
         {
           "_name": "footer1",
@@ -2763,7 +2763,256 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"https://www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\" target=\"_blank\">YouTube</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li>YouTube</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "wespinosa@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out the form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me</a>"
+        }
+      ]
+    },
+    "personal.html": {
+      "settings": {
+        "order": 5,
+        "title": "Personal Work"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "32px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#949494!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2g",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"biography.html\" aria-expanded=\"false\">BIOGRAPHY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applications.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationill.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"applicationani.html\">Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Micrsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://wendyespinosa.github.io/pictures/discuss.pdf\" target=\"_blank\">Discuss IT 6</a></div></div></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"applications3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Others<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">123D</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certoth.html\">IC3 Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certphoto.html\">Photoshop Certifications<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certillu.html\">Illustrator Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resume.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Past Clients</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Girls Who Code</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"personal.html\">PERSONAL</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#0b0b0b",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Technology Production @ Miami Arts Studio 6-12"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2i",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "Personal Creations",
+          "meta": "Pieces made on my own accord."
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chr-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/chr-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ang-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/ang-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chr1-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/chr1-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/na-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/na-2000x2000.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2j",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-2k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#161616",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li>YouTube</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "wespinosa@miamiartsstudio.com",
