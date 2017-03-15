@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "personal.html",
+    "currentPage": "applications.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -685,7 +685,77 @@
                 "thumb": "@PROJECT_PATH@/assets/images/5-wendy-espinosa-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/5-wendy-espinosa-2000x2000.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-wendy-espinosa-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-wendy-espinosa-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-wendy-espinosa-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-wendy-espinosa-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-wendy-espinosa-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-wendy-espinosa-2000x2000.jpg",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-wendy-espinosa-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-wendy-espinosa-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-wendy-espinosa-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10-wendy-espinosa-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-wendy-espinosa-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11-wendy-espinosa-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-wendy-espinosa-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-wendy-espinosa-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "1",
