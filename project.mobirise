@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "applicationpp.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -320,7 +320,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"https://www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\" target=\"_blank\">YouTube</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li>M<a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"https://www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\" target=\"_blank\">YouTube</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "wespinosa@miamiartsstudio.com",
@@ -451,7 +451,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -900,7 +900,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1291,7 +1291,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1501,7 +1501,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1730,7 +1730,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1959,7 +1959,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2188,7 +2188,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2412,7 +2412,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2701,7 +2701,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2944,7 +2944,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3223,7 +3223,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3470,7 +3470,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3602,7 +3602,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street<br>Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: wespinosa@miamiartsstudio.com<br>\nPhone:  (305)-485-2323<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">M</a><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li>YouTube</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"mas.dadeschools.net\">Miami Arts Studio @ Zelda Glazer 6-12</a></li><li>M<a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">r. Pate's Website</a></li><li><a href=\"https://www.youtube.com/channel/UCjErtJfPiEHoYOwrtRgo5_w\" target=\"_blank\">YouTube</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "wespinosa@miamiartsstudio.com",
