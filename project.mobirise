@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "applicationpp.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#949494",
         "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
+        "successColor": "#282828",
         "infoColor": "#c1c1c1",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 112,
+    "uniqCompNum": 114,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x128-1.png",
     "noImageResize": "",
@@ -262,44 +262,50 @@
           "allItem": "All"
         },
         {
-          "_inherit": "content5",
           "_styles": {
-            ".mbr-section-title, p": {
-              "text-align": "right",
-              "color": "#fff"
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
-            "DIV": {
-              "text-align": "right",
-              "color": "#ffffff"
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "19px"
+            },
+            ".btn": {
+              "font-size": "17px"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "content8",
-          "_anchor": "content8-23",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-35",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#101010",
+            "bgColorRadio": true,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/dIq-fzAFt9U?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#000",
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
             "showTitle": true,
-            "showCaption": true
+            "showText": true
           },
-          "title": "Video??",
-          "caption": "Soon."
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">My Story</a>",
+          "title": "Born to Manage.",
+          "text": "A short video filmed and edited by me about my technology experiences."
         },
         {
           "_tags": [
