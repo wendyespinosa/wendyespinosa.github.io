@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 114,
+    "uniqCompNum": 115,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x128-1.png",
     "noImageResize": "",
@@ -282,7 +282,7 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-35",
+          "_anchor": "msg-box2-36",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -306,6 +306,52 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.youtube.com/watch?v=bmjQ5ITKShc\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Story</a>",
           "title": "Born to Manage.",
           "text": "A short video filmed and edited by me about my technology experiences."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "19px"
+            },
+            ".btn": {
+              "font-size": "17px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-35",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#101010",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.youtube.com/watch?v=xUxPdZ8TZRQ&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch It</a>",
+          "title": "Imagine Dragons.",
+          "text": "A music video edited by me."
         },
         {
           "_tags": [
@@ -457,7 +503,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -906,7 +952,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1297,7 +1343,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1507,7 +1553,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1736,7 +1782,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1965,7 +2011,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2194,7 +2240,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2418,7 +2464,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2707,7 +2753,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2950,7 +2996,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3229,7 +3275,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3476,7 +3522,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
