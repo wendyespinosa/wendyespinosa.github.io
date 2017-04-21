@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 115,
+    "uniqCompNum": 119,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x128-1.png",
     "noImageResize": "",
@@ -328,14 +328,14 @@
             "Theme"
           ],
           "_name": "msg-box2",
-          "_anchor": "msg-box2-35",
+          "_anchor": "msg-box2-3a",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#101010",
+            "bgColor": "#0e0e0e",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -349,9 +349,9 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.youtube.com/watch?v=xUxPdZ8TZRQ&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch It</a>",
-          "title": "Imagine Dragons.",
-          "text": "A music video edited by me."
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.youtube.com/watch?v=sGKnfx9oyww&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch It</a>",
+          "title": "A Thousand Million Reasons.",
+          "text": "A music video edited by me. Majority of the images belong to me. The song was produced by Colin Hays."
         },
         {
           "_tags": [
@@ -503,7 +503,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -952,7 +952,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1343,7 +1343,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1553,7 +1553,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1782,7 +1782,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2011,7 +2011,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2240,7 +2240,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2464,7 +2464,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2753,7 +2753,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2996,7 +2996,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3275,7 +3275,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3522,7 +3522,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3592,12 +3592,12 @@
             "Theme"
           ],
           "_name": "header6",
-          "_anchor": "header6-32",
+          "_anchor": "header6-37",
           "_params": {
             "imageSize": "60",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1609.jpg",
+            "bgImage": "file:///C:/Users/0270738/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2000x1609.jpg",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
@@ -3620,7 +3620,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=r_NajwKIbuk&t=3s",
+              "src": "https://www.youtube.com/watch?v=sGKnfx9oyww&feature=youtu.be",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -3633,6 +3633,120 @@
           },
           "title": "\"About Me\"&nbsp;",
           "text": "Short video filmed and edited by me about my<br>technology experiences.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-32",
+          "_params": {
+            "imageSize": "60",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1609.jpg",
+            "bgColor": "#080808",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=xUxPdZ8TZRQ&feature=youtu.be",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "\"Imagine Dragons\"&nbsp;",
+          "text": "A music video edited by me. The clips and audio were shot by the Imagine Dragons crew.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-39",
+          "_params": {
+            "imageSize": "60",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/0270738/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2000x1609.jpg",
+            "bgColor": "#0d0d0d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=sGKnfx9oyww&feature=youtu.be",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "\"A Thousand Million Reasons\"&nbsp;",
+          "text": "A music video edited by me. Majority of the images belong to me and the song was produced by Colin Hays.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {

@@ -511,16 +511,16 @@ h6,
 #msg-box2-36 .btn {
   font-size: 17px;
 }
-#msg-box2-35 .mbr-section-title {
+#msg-box2-3a .mbr-section-title {
   color: #fff;
   font-family: 'Raleway', sans-serif;
 }
-#msg-box2-35 .mbr-section-subtitle {
+#msg-box2-3a .mbr-section-subtitle {
   color: #a0a0a0;
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 19px;
 }
-#msg-box2-35 .btn {
+#msg-box2-3a .btn {
   font-size: 17px;
 }
 #ext_menu-2 .hide-buttons .nav-btn {
@@ -1374,9 +1374,21 @@ h6,
 #header3-31 H3 {
   color: #ffffff;
 }
+#header6-37 .mbr-section-title {
+  color: #ffffff;
+}
+#header6-37 .mbr-section-text {
+  color: #565656;
+}
 #header6-32 .mbr-section-title {
   color: #ffffff;
 }
 #header6-32 .mbr-section-text {
+  color: #565656;
+}
+#header6-39 .mbr-section-title {
+  color: #ffffff;
+}
+#header6-39 .mbr-section-text {
   color: #565656;
 }
