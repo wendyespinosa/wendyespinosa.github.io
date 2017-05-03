@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 123,
+    "uniqCompNum": 124,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x128-1.png",
     "noImageResize": "",
@@ -503,7 +503,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -842,7 +842,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1233,7 +1233,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1443,7 +1443,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1672,7 +1672,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1901,7 +1901,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2130,7 +2130,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2354,7 +2354,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2643,7 +2643,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2886,7 +2886,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3165,7 +3165,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3412,7 +3412,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3530,17 +3530,9 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#565656"
-            }
-          },
-          "_anchor": "msg-box5-3d",
+          "_anchor": "msg-box5-3f",
           "_params": {
-            "imageSize": "60",
+            "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
@@ -3566,7 +3558,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "src": "https://youtu.be/sGKnfx9oyww",
+              "src": "https://youtu.be/xUxPdZ8TZRQ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
@@ -3579,8 +3571,16 @@
             }
           },
           "title": "\"Imagine Dragons\"&nbsp;",
-          "text": "A music video edited by me. The clips and audio were shot by the Imagine Dragons crew.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">A music video edited by me. The clips and audio were shot by the Imagine Dragons crew.</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#565656"
+            }
+          }
         },
         {
           "_tags": [
