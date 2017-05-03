@@ -503,7 +503,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -842,7 +842,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1233,7 +1233,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1443,7 +1443,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1672,7 +1672,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1901,7 +1901,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2130,7 +2130,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2354,7 +2354,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2643,7 +2643,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2886,7 +2886,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3165,7 +3165,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3412,7 +3412,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1282.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1283.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3566,7 +3566,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=HSivlaSVk1k",
+              "src": "https://youtu.be/sGKnfx9oyww",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
@@ -3623,7 +3623,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=HSivlaSVk1k",
+              "src": "https://youtu.be/sGKnfx9oyww",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
