@@ -503,7 +503,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -842,7 +842,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1233,7 +1233,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1443,7 +1443,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1672,7 +1672,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1901,7 +1901,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2130,7 +2130,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2354,7 +2354,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2643,7 +2643,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2886,7 +2886,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3165,7 +3165,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3412,7 +3412,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3532,7 +3532,7 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-3f",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "60",
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
