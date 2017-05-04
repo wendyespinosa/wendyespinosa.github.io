@@ -503,7 +503,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -842,7 +842,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1233,7 +1233,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1443,7 +1443,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1672,7 +1672,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1901,7 +1901,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2130,7 +2130,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2354,7 +2354,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2643,7 +2643,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2886,7 +2886,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3165,7 +3165,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3412,7 +3412,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-640x1285.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-640x1280.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3473,6 +3473,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#565656"
+            }
+          },
           "_anchor": "msg-box5-3c",
           "_params": {
             "imageSize": "60",
@@ -3515,21 +3523,21 @@
           },
           "title": "\"About Me\"",
           "text": "Short video filmed and edited by me about my<br>technology experiences.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#565656"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#565656"
+            }
+          },
           "_anchor": "msg-box5-3f",
           "_params": {
             "imageSize": "60",
@@ -3572,15 +3580,7 @@
           },
           "title": "\"Imagine Dragons\"&nbsp;",
           "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">A music video edited by me. The clips and audio were shot by the Imagine Dragons crew.</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#565656"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -3623,7 +3623,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "src": "https://youtu.be/sGKnfx9oyww",
+              "src": "https://www.youtube.com/watch?v=4CUelEljt60&feature=youtu.be",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
