@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "applicationpp.html",
+    "currentPage": "applicationill.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2497,6 +2497,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/vw-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/vw-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pon-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/pon-2000x2000.png",
                 "caption": "Type caption here",
                 "active": true
               }
